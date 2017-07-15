@@ -7,7 +7,7 @@
 
 #include <string>
 #include <node.h>
-#include "iso2opl.h"
+//#include "iso2opl.h"
 
 extern "C" s64 GetGameID(const char *isofile, int isBigEndian, short closeOnEnd, char *GameID);
 
